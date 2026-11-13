@@ -51,7 +51,7 @@ sistema-reservas-aulas/
 
 El frontend consume la API REST del backend. Keycloak gestiona la autenticación y el backend valida los tokens y permisos. Los datos de la aplicación se almacenan en archivos JSON locales.
 
-## Autoras
+## Autora
 
 - **Jazmín Rearte Allende**
 
