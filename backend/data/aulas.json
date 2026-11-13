@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "aula-001",
+    "nombre": "Aula 101",
+    "ubicacion": "Edificio Central - Piso 1",
+    "capacidad": 40,
+    "recursos": ["proyector", "pizarra"],
+    "activa": true
+  },
+  {
+    "id": "aula-002",
+    "nombre": "Aula 102",
+    "ubicacion": "Edificio Central - Piso 1",
+    "capacidad": 60,
+    "recursos": ["proyector", "parlantes", "pizarra"],
+    "activa": true
+  },
+  {
+    "id": "aula-003",
+    "nombre": "Laboratorio de Informática",
+    "ubicacion": "Edificio Central - Piso 2",
+    "capacidad": 30,
+    "recursos": ["computadoras", "proyector"],
+    "activa": true
+  },
+  {
+    "id": "aula-004",
+    "nombre": "Auditorio",
+    "ubicacion": "Edificio Central - Planta Baja",
+    "capacidad": 120,
+    "recursos": ["proyector", "microfonos", "parlantes"],
+    "activa": true
+  },
+  {
+    "id": "aula-005",
+    "nombre": "Aula 205",
+    "ubicacion": "Edificio Central - Piso 2",
+    "capacidad": 25,
+    "recursos": ["pizarra"],
+    "activa": false
+  }
+]
